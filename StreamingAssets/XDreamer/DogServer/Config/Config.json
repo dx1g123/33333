@@ -1,0 +1,31 @@
+﻿
+{
+    "autoStartServer" : 1,
+    "autoTryStartServerCount" : 3600,
+    "watchTaskSleepSeconds"   : 60,
+    "autoCloseSecondsWhenLocal" : 300,
+    "autoClearClientSeconds"    : 3600,
+    "port"                      : 6868,
+    "autoTryPort"               : 1,
+    "outputLog"                 : 1,
+    "maxLogShowCount"           : 999,
+    "useDupkgInsteadOfDog"      : 0,
+    "dupkgFileName"             : "XDreamer.dupkg",
+    "deviceSerialNumber"        : "",
+    "deviceActivateCode"        : "",
+    "userSystemDB"              : "UserSystem.db",
+    "components"                : [
+    ],
+    "componentVersions"         : [
+    ],
+    "blackList"                 : {
+        "devices" : {
+            "datas" : [
+            ]
+        },
+        "ips"     : {
+            "datas" : [
+            ]
+        }
+    }
+}

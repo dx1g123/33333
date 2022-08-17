@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "1101",
+"productVersion": "0.1",
+"dataUrl": "WebGL Builds.data.unityweb",
+"wasmCodeUrl": "WebGL Builds.wasm",
+"wasmFrameworkUrl": "WebGL Builds.wasm.framework.unityweb",
+"wasmSymbolsUrl": "WebGL Builds.wasm.symbols.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.39f1c1"
+}
